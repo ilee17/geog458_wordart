@@ -13,16 +13,13 @@
 
 # Word Clouds
 
-**UW Seattle**
-<br>
+## UW Seattle
 <img src="/img/UWSeattle.jpeg" alt="UW Seattle Word Cloud">
 
-**UW Tacoma**
-<br>
+## UW Tacoma
 <img src="/img/UWTacoma.jpeg" alt="UW Tacoma Word Cloud">
 
-**UW Bothell**
-<br>
+## UW Bothell**
 <img src="/img/UWBothell.jpeg" alt="UW Bothell WOrd Cloud">
 
 # CSV Files Used
