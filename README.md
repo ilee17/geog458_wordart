@@ -12,9 +12,9 @@
 # Topic
 
 # Word Clouds
-<img src="/img/UWSeattle.jpeg" alt="UW Seattle Word Cloud" width="50">
-<img src="/img/UWTacoma.jpeg" alt="UW Tacoma Word Cloud" width="50">
-<img src="/img/UWBothell.jpeg" alt="UW Bothell WOrd Cloud" width="50">
+<img src="/img/UWSeattle.jpeg" alt="UW Seattle Word Cloud" width="100">
+<img src="/img/UWTacoma.jpeg" alt="UW Tacoma Word Cloud" width="100">
+<img src="/img/UWBothell.jpeg" alt="UW Bothell WOrd Cloud" width="100">
 
 # CSV Files Used
 [Download UW Seattle Data](/assets/search-result-1.csv)
