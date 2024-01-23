@@ -19,10 +19,10 @@
 ## UW Tacoma
 <img src="/img/UWTacoma.jpeg" alt="UW Tacoma Word Cloud">
 
-## UW Bothell**
+## UW Bothell
 <img src="/img/UWBothell.jpeg" alt="UW Bothell WOrd Cloud">
 
 # CSV Files Used
-[Download UW Seattle Data](/assets/search-result-1.csv)
-[Download UW Tacoma Data](/assets/search-result-2.csv)
+[Download UW Seattle Data](/assets/search-result-1.csv) <br>
+[Download UW Tacoma Data](/assets/search-result-2.csv) <br>
 [Download UW Bothell Data](/assets/search-result-3.csv)
